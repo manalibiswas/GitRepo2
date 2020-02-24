@@ -2,4 +2,4 @@ Python is the most popular language.
 Rest is an upcoming language.
 Python is created by Guido van Rossum.
 Rest was designed by Graydon Hoare.
-Sime Steward is the inventor of Selenium
+Simon Steward is the inventor of Selenium
